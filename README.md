@@ -1,8 +1,5 @@
 # s21_decimal 
 
-> При старте работы над проектом просим тебя постараться хронометрировать время работы над проектом.
-> По завершении работы над проектом, пожалуйста, ответь на два вопроса [в этом опросе](https://forms.gle/PFAxFfM4GJuQU1x59).
-
 Implementation of your own s21_decimal.h library.
 
 The russian version of the task can be found in the repository.
@@ -19,35 +16,6 @@ The russian version of the task can be found in the repository.
 
 
 ## Chapter I
-
-![s21_decimal](misc/images/s21_decimal.png)
-
-Planet Earth, 1990s. 
-
-The world economy is growing exponentially, the stock market is increasing year on year, more and more companies are going public and their shares are being quoted. The number of users, the number of transactions, the price, the commission, the interest, the calculation of technical financial indicators... It's hard to overestimate the accuracy of all this data, and there are serious problems with the current outdated data types used in the financial sector.
-
-Millions of dollars are lost every year due to a miscalculation in the standard IEEE 754 (float), which simply disappears from the system. 
-
-Along with the FIX (Financial Information eXchange) protocol, which is being developed to process data between the broker and the exchange, another tool is needed to transfer and store data. \
-At the follow-up meeting:
-
-*"So, gentlemen, please note that our group of specialists, who have already proven themselves in many successful projects, have been commissioned by the government to develop a completely new type of data, code-named Decimal. Its purpose is to make it possible to significantly reduce, and in some cases eliminate, errors in the world's financial transactions for several decades. It is required to describe all the necessary logical and arithmetic operations that would allow the necessary calculations to be performed quickly and conveniently."*
-
-*"Wow, that's quite an order we got, and from such a customer! We have to keep this client — it promises us big contracts in the future if we do well!"*
-
-*"Yes, you're right, that's why we need to think about what features to implement... Any suggestions?"*
-
-*"Sum and difference..."*
-
-*"Multiplication and division..."*
-
-*"Agreed, but we need more!"*
-
-*"Take the remainder, comparison and conversion operations!"*
-
-*"Mathematical rounding in all directions!"*
-
-*"Yes, I think that's enough, let's get to work! We only have a few days left, don't let us down!"*
 
 ## Introduction
 
